@@ -1,3 +1,5 @@
-fastapi
-uvicorn
-ur_audio_sub
+pydub
+speechrecognition
+PyAudio
+streamlit
+Pillow
